@@ -1,3 +1,10 @@
+### Hi there 👋, Mitul Sharma
+Focused and quick-learning Software Engineer, who loves learning new technology. 
+
+Skills: Golang, Kubernetes, Devops
+
+- 🔭 I’m currently working on this page. 
+
 <h2 align="left">I'm Mitul from India, a Focused and quick-learning Software Engineer who loves learning new tech</h2>
 <h3 align="center">Software Engineering, Opensource Contribution, Programming</h3>
 
