@@ -1,11 +1,11 @@
 ### Hi there 👋, Mitul Sharma
 Focused and quick-learning Software Engineer, who loves learning new technology. 
 
-Skills: Golang, Kubernetes, Devops
+- 🌱 Skills: Golang, Kubernetes, Devops
 
-- 🌱 I’m currently learning **Microservices and web-fraemwork**
+- 🌱 I’m currently learning **Microservices and web-frameworks**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitulsharma123" alt="mitulsharma123" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitulsharma123" alt="mitulsharma123" /></a> </p>
 
 <p align="left">
 </p>
