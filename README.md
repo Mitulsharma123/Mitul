@@ -3,14 +3,9 @@ Focused and quick-learning Software Engineer, who loves learning new technology.
 
 Skills: Golang, Kubernetes, Devops
 
-- 🔭 I’m currently working on this page. 
-
-<h2 align="left">I'm Mitul from India, a Focused and quick-learning Software Engineer who loves learning new tech</h2>
-<h3 align="center">Software Engineering, Opensource Contribution, Programming</h3>
+- 🌱 I’m currently learning **Microservices and web-fraemwork**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitulsharma123" alt="mitulsharma123" /></a> </p>
-
-- 🌱 I’m currently learning **Microservices and web-fraemwork**
 
 <p align="left">
 </p>
