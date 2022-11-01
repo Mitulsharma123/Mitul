@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mitul Sharma</h1>
-<h3 align="center">Software Engineering, Opensource contribution, Programming</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitulsharma123&label=Profile%20views&color=0e75b6&style=flat" alt="mitulsharma123" /> </p>
+<h1 align="left">I'm Mitul from India, a Focused and quick-learning Software Engineer who loves learning new tech</h1>
+<h3 align="center">Software Engineering, Opensource Contribution, Programming</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitulsharma123" alt="mitulsharma123" /></a> </p>
 
